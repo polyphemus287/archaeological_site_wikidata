@@ -25,7 +25,8 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/<your-username>/<repository-name>.git](https://github.com/polyphemus287/archaeological_site_wikidata.git
+   git clone https://github.com/polyphemus287/archaeological_site_wikidata.git
+   
    ```
 
 2. **Install required Python packages:**
